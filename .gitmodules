@@ -1,3 +1,6 @@
 [submodule "03. Breaking The Protection"]
-	path = 03. Breaking The Protection
+	path = Breaking The Protection
 	url = git@github.com:mitcdh/ducksy-sms.git
+[submodule "Building a Unidirectional Link"]
+	path = Building a Unidirectional Link
+	url = git@github.com:mitcdh/diode-switch-config.git
